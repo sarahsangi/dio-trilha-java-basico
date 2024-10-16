@@ -19,17 +19,5 @@ public class ContaTerminal {
         double saldo = scanner.nextDouble();
 
         System.out.println("Olá " + nome + ", obrigado por criar uma conta em nosso banco, sua agência é " + agencia + ", conta " + numero + " e seu saldo " + saldo + " já está disponível para saque.");
-
-
-
-        
-
-
-
-        //TODO: Conhecer e importar a classe Scanner
-
-        //TODO: Exibir as mensagens para o nosso usuário
-
-        //TODO: Exibir a mensagem conta criada
     }
 }
